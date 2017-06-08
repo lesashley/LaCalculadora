@@ -1,3 +1,10 @@
+html,body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Khula", sans-serif;
+  background-color: ghostwhite;
+}
 /*Utilitarias*/
 .gray-dark{
   background-color: #3b444b;
@@ -13,13 +20,6 @@
 }
 .gold{
   background-color: #f0c50f;
-}
-html,body{
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  font-family: "Khula", sans-serif;
-  background-color: ghostwhite;
 }
 input[type="button"],
 button{
